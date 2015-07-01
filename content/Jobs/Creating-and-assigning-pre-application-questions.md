@@ -1,4 +1,7 @@
-#### Creating pre-application questions
+/*
+Title: Creating pre-application questions
+
+*/
 
 Pre-application questions are shown before the main application form. You can set killer questions which when answered with certain answers the applicant will not be taken through to the main application form.  
   

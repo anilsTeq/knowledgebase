@@ -1,5 +1,7 @@
-##### How to send users their login details
+/*
+Title: How to send users their login details?
 
+*/
   
 ​​As an admin, you can send users an email with their login details while in the ATS.  
   

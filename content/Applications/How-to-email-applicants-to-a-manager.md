@@ -1,4 +1,7 @@
-### How to email applicants to a manager
+/*
+Title: How to email applicants to a manager
+
+*/
 
   
 ​You can forward applicants to a manager for them to be reviewed.  

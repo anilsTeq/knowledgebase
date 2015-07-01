@@ -1,5 +1,11 @@
+/*
+Title: Adding applicant and candidate notes
+
+*/
+
+
 Candidate notes are part of their activity log. These can be viewed in the applicant viewer and candidate viewer (for more information on the difference between a candidate and an applicant click here).  
-  
+
 
 ### 1. How to get to the applicant/candidate viewer
 

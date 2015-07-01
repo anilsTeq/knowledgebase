@@ -1,5 +1,7 @@
-##### I have forgotten my password
+/*
+Title: I have forgotten my password
 
+*/
   
 ​​If you have forgotten your password, you can have your current password sent to your email address.  
   

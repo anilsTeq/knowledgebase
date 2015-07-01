@@ -1,4 +1,7 @@
-### Hiring Manager portal
+/*
+Title: Hiring Manager portal
+
+*/
 
   
 ​Here is where Hiring Managers can review applicants for a role they are assigned to.  

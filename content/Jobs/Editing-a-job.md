@@ -1,4 +1,7 @@
-#### Editing a job
+/*
+Title: Editing a job
+
+*/
 
   
 ​​As a recruiter user, you can edit jobs on the ATS and then publish them to your website, intranet and other job boards  

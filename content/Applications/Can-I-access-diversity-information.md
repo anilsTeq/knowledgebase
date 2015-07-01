@@ -1,5 +1,7 @@
-### Can I access diversity information?
+/*
+Title: Can I access diversity information?
 
+*/
   
 ​Administrators and recruiter users only may access a candidate’s diversity information. This data is only shown in the candidate area and never in the applicant viewer when you are processing an applicant against a job.  
   

@@ -1,5 +1,7 @@
-#### Release to Easyweb
+/*
+Title: Release to Easyweb
 
+*/
   
 ​​When you are creating or editing a job you can choose the option to release the job to Easyweb which will send an email to your account manager and the recruitment team here at Easyweb  
   

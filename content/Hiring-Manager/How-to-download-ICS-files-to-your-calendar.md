@@ -1,5 +1,7 @@
-### How to download ICS files to your calendar
+/*
+Title: How to download ICS files to your calendar?
 
+*/
   
 ​When you schedule an interview you can send an email to the interviewer. This includes an ICS file which allows them to add the event to their calendar. Examples of programs which use ICS files are Outlook (2008 Server), Gmail and more.   
 Please note: This ICS file will only be sent to the interviewer, not the interviewee.  

@@ -1,4 +1,7 @@
-### How to schedule interviews
+/*
+Title: How to schedule interviews?
+
+*/
 
   
 ​As a recruiter and admin you can schedule interviews and add them to the calendar in the ATS. You can only book interviews for applicants for a job. So locate the list of applicants for the job you want to arrange interviews for.  

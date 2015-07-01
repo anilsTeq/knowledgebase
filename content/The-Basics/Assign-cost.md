@@ -1,5 +1,7 @@
-##### Assign cost
+/*
+Title: Assign cost
 
+*/
   
 ​​The assign cost feature allows you to record a cost to each role. You can then view the cost of each role to advertise.  
   

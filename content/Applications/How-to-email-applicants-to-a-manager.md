@@ -2,25 +2,21 @@
 Title: How to email applicants to a manager
 
 */
-
-  
-​You can forward applicants to a manager for them to be reviewed.  
-  
-
+<br>
+​You can forward applicants to a manager for them to be reviewed.
+<br>
 - On the jobs page, find the relevant job in the jobs list and under the heading “Applicants” click the number to open up the list of applicants.
-![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150430150332782.98318.20150430150332782D5brZ)  
-  
-
+![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150430150332782.98318.20150430150332782D5brZ)
+<br>
 - In the applicant list, use the tick box on the left hand side to select the applications you would like to be forwarded to the manager.
 - Click the “Process Applicant(s)” button and select “Forward applicant(s) via email”.
-![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150430150402459.98318.201504301504024591XPRp)  
-  
-
+![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150430150402459.98318.201504301504024591XPRp)
+<br>
 - Choose a template email from the “select the email format” question. You will then see the template email appear in the “compose message” box.
 Please note: The place holder called {applicant list} will provide a full list of applicants and ID numbers. The example on the right is how the email will look once it’s forwarded.  
   
-![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150430150459777.98318.20150430150459777esE8B)  
-  
+![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150430150459777.98318.20150430150459777esE8B)
+<br>
 
 - The email address of the assigned hiring manager will automatically appear in the “To” box.
   

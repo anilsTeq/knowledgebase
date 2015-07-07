@@ -2,14 +2,13 @@
 Title: How to email applicants to a manager
 
 */
-<br>
-​You can forward applicants to a manager for them to be reviewed.
-<br>
+You can forward applicants to a manager for them to be reviewed.
 - On the jobs page, find the relevant job in the jobs list and under the heading “Applicants” click the number to open up the list of applicants.
+
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150430150332782.98318.20150430150332782D5brZ)
-<br>
 - In the applicant list, use the tick box on the left hand side to select the applications you would like to be forwarded to the manager.
 - Click the “Process Applicant(s)” button and select “Forward applicant(s) via email”.
+
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150430150402459.98318.201504301504024591XPRp)
 <br>
 - Choose a template email from the “select the email format” question. You will then see the template email appear in the “compose message” box.
@@ -25,6 +24,6 @@ Please note: The tick boxes at the bottom will attach the applicant’s document
 
 - When you have completed the page click send to forward all the selected candidates.
   
-Please note: If you are unsure of how the email will look you can use the green “Send Test Email” button and it will send an exact copy of the email(s) to your email address.  
-  
-![Image](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/1019079964/original/o.png?1427467940)
+Please note: If you are unsure of how the email will look you can use the green “Send Test Email” button and it will send an exact copy of the email(s) to your email address.
+
+![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150706110626848.98318.20150706110626848KASjJ)

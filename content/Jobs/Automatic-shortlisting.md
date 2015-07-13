@@ -8,7 +8,7 @@ When candidates apply to a role there is an option for these applicants to be au
 - On the add/edit jobs page there is a field called “Do you want to automatically shortlist all applicants for the Hiring Manager to review?” Select yes if you would like the applicants to be shortlisted automatically.
 
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150511131945770.98318.20150511131945770aCATK)  
-  
+  <br>
 
 - All new applicants will be sent to the hiring manager who can view them in the hiring manager portal.
 

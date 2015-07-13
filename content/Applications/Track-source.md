@@ -9,12 +9,12 @@ Title: Track source
 - Click on the drop down “Choose an action” and select “Track Source”.
 
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150501140929528.98318.20150501140929528GOqXz)  
-  
+  <br>
 
 - A page similar to the one below should appear. Use the drop down on the left to select a source which you would like to be tracked automatically and click the green “Generate Web Address” button.
 
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150501140948719.98318.201505011409487194gz6H)  
-  
+  <br>
 Please note: The Easyweb recruitment option is dealt with by our recruitment team.  
   
 
@@ -22,5 +22,5 @@ Please note: The Easyweb recruitment option is dealt with by our recruitment tea
 - The “Job Advert Link” will send the candidate to the job advert where they can then apply for the role and the “Job Application Form Link” will send the candidate automatically to the application form.
 
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150501141030929.98318.20150501141030929BdZ3K)  
-  
+  <br>
 Direct people to the Job Advert if you the page they are coming from does not include details about the job. Only direct people to the Job Application Form when you know they have already seen the job details.

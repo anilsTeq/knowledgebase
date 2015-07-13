@@ -11,6 +11,7 @@ As a recruiter user, you can add new jobs to the ATS and publish them to your we
 Please note: [click here](http://testewr-knowledgebase.herokuapp.com/Jobs/Creating-template-jobs) for information on template jobs, as this could save you a lot of time.  
   
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/80110.20150430142009570.80110.20150430142009570NVAo9)  
+<br>
 
 - You should now see a form similar but not identical to the one below
 
@@ -29,7 +30,7 @@ Please note: The job will not be published until you confirm you want to publish
 - Use the preview button to see what the questions will look like to the applicant
 
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/80110.20150430142137505.80110.20150430142137505uLsZA)  
-
+<br>
 - “Pre application” questions come before the main application form. This is an example of what they might look like.
   
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/80110.20150430142153086.80110.20150430142153086yVRqq)  
@@ -48,7 +49,7 @@ Please note: The job will not be published until you confirm you want to publish
 You should now see a page similar to the one below.  
   <br>
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150511104008242.98318.20150511104008242FxJr7)  
-
+<br>
 
 - Publishing your vacancy to the intranet will only work if you have intranet publishing implemented
 - The green “Release to Easyweb” button will send an email to the Easyweb recruitment team and to your account manager
@@ -56,7 +57,7 @@ You should now see a page similar to the one below.
 - Some boards require additional information to be published. Here is an example of additional fields for indeed.
 
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150511104210995.98318.20150511104210995vvVUb)  
-
+<br>
 - Once this page is complete click the “Save” button and the job will be published where it can be viewed in the jobs list.
 
 <br> 

@@ -9,12 +9,12 @@ You can view the answers candidates have given to vacancy specific questions in 
 - Click the blue number to show all the applicants in a table and click the green number to show only the new applicants.
   
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150511152446558.98318.20150511152446558KVTvO)  
-  
+  <br>
 
 - Click on the candidates name to open the applicant viewer. 
 
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150511152538994.98318.20150511152538994MldIC)  
-  
+  <br>
 
 - Once in the applicant viewer (should look similar to the picture below) click the vacancy specific questions to view the questions and answers they have given.
 

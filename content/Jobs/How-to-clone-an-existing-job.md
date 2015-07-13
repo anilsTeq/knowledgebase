@@ -8,7 +8,7 @@ As an admin you can create a clone of an existing job.
 - On the home page in the job lists table under the title “Clone” there is an icon you can click to clone the job.
 
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150511144656040.98318.20150511144656040GqcFM)  
-  
+  <br>
 
 - Information will be filled automatically into the edit job page using the information from the existing job.
 

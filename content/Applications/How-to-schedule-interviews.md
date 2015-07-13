@@ -8,7 +8,7 @@ Title: How to schedule interviews?
 - Use the tick box to select the candidate you would like to interview. Then use the “Process Applicant(s)” drop down menu to select “Schedule Interview”.
 
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150512113848651.98318.20150512113848651EpCVR)  
-
+<br>
 - You will then be asked to choose from your list of interview statuses.
 - Use the drop down menu to select what type of interview will be occurring and enter any additional notes then click “Change Status”. This first step ensures the applicants status is updated.
 
@@ -18,13 +18,14 @@ Title: How to schedule interviews?
 - The two top fields will be filled in automatically, as the system knows the applicant and the job details.
 - You now need to select the interviewer, use the list to find the desired interviewer(s). You can also add interviewer(s) using the green add button and entering their details in the textboxes provided. Ticking the box “Add a new user” will save this interviewer so they will be in your database of interviewers.
 
-![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150512134357427.98318.201505121343574279jQ7R)  
+![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150512134357427.98318.201505121343574279jQ7R)
+  <br>
 - Click the interview date box to open the calendar and use it to set the date of the interview.
 - The location address will fill in automatically when you select the interview location. You can select the option "Other" if the desired location is not in the list.
 - You can upload a file for “Attach directions / map file” however if you already have one saved under a location then it will attach automatically.
 
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150512140349803.98318.20150512140349803aPBzV)
-
+<br>
 ##### Email the Candidate and Interviewer(s)
   
 - Use the tick box to select if you would like to email the candidate and/or the interviewer(s) regarding this interview.
@@ -33,7 +34,7 @@ Title: How to schedule interviews?
 - Once you have completed this page click the green “Confirm” button to schedule the interview and send emails if application.
 
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150618094550481.98318.20150618094550481Dnu5W)  
-
+<br>
 - A calendar will now open with all your interviews included as well as the newly created one, as can be seen in the screenshot below.
 
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150618094617297.98318.20150618094617297lQn1b)

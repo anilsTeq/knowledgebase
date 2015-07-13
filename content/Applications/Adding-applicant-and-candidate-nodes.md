@@ -16,41 +16,41 @@ Candidate notes are part of their activity log. These can be viewed in the appli
 Please note: To find the job quicker you can use the job list filter. Information on how to use the job list filter is here.  
   
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150501082042349.98318.20150501082042349egPlr)  
-  
+<br>
 
 - Click on the candidate’s name to open the applicant viewer.
   
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150501082158742.98318.20150501082158742g53dY)  
-  
+  <br>
 
 - You can now see their applicant record. Click on "Activity Log" to view their past activity.
 
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150512154954416.98318.20150512154954416xOwiE)  
-  
+  <br>
 
 ##### Accessing activity log via candidate page
 
 - On the home page, click on candidates in the top right corner to open the candidates list.
 
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150501082613432.98318.20150501082613432Op9cZ)  
-  
+  <br>
 
 - Find the desired candidate in the candidate list and click on their name to open the candidate viewer. Using the filter may save time looking for the candidate.
 
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150501082849418.98318.20150501082849418dKjPi)  
-  
+  <br>
 
 #### 2. Adding notes
 
 - Click on "Activity Log" to view all the applicant/candidate notes.
 
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150501083328878.98318.20150501083328878siPMl)  
-  
+  <br>
 
 - Click “Add Note” in the top left to open a new page in the applicant/candidate viewer where you can type in your note and save it.
 
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150501083356283.98318.20150501083356283thKQe)  
-  
+  <br>
 
 #### 3. View your notes
 

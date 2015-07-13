@@ -10,7 +10,7 @@ Title: Release to Easyweb
 - Click the choose action box and select “Publishing Options”.
 
 ![Image](https://s3.amazonaws.com/tw-desk/i/122167/attachment-inline/98318.20150430144522170.98318.201504301445221705CFFO)  
-  
+  <br>
 
 - Click the green “Release to Easyweb” button, a box will open where you can enter additional information.
 - Then click the “Send email to Easyweb” to complete.
